@@ -1,7 +1,7 @@
 public class HelloWorld {
 public static void main (String [args]){
 
-System.out.println("Hello world pozdrav iz   grane3")
+System.out.println("Hello world pozdrav iz master grane")
 
 }
 }
